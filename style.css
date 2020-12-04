@@ -11,19 +11,6 @@ section{
     padding: 100px;
 
 }
-::-webkit-scrollbar
-{
-  width: 10px;
-}
-::-webkit-scrollbar-track
-{
-  border-radius: 10px;
-}
-::-webkit-scrollbar-thumb
-{
- background: linear-gradient(45deg, rgb(0, 195, 255),rgb(251, 255, 24));
- border-radius: 10px;
-}
 .banner {
     position: relative;
     min-height: 100vh;
