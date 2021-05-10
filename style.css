@@ -49,6 +49,9 @@ section{
     letter-spacing: 2px;
     font-weight: 500;
 }
+.para{
+        padding-right: 100px!important;
+    }
 header{
     position: fixed;
     top: 0;
@@ -402,6 +405,9 @@ img{
     }
     selection{
         padding: 100px 20px;
+    }
+    .para{
+        padding-right: 0px!important;
     }
 }
 @media (max-width:500px){
